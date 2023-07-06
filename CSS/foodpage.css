@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');    
+.bg{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+.card{
+    background-color: #f6c56e;
+    color: #323f4b;
+}
+.btn{
+    background-color: #ffffff;
+    color: #323f4b;
+    font-family: 'Roboto', sans-serif;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+}
+.card-title{
+    font-family: 'Bree Serif', serif;
+}
