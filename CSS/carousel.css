@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d-block{
+    height: 400px;
+    object-fit: cover;
+}
+.button1{
+    border-radius: 50%;
+    height: 10px !important;
+    width: 10px !important;
+}
