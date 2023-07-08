@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://images.hdqwalls.com/wallpapers/eiffel-tower-hd-hf.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.img-fluid{
+    height: 50vh;
+    width: 5vw;
+    position: relative;
+    top: 7px;
+    left: 80px;
+    object-fit: cover;
+}
