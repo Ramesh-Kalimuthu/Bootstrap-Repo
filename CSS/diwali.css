@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#e6f6ff;
+}
+.image{
+    height: 250px;
+    width: 100vw;
+    object-fit: cover;
+}
+.card-img-top{
+    height: 80px;
+    width: 80px;
+}
+/* .imageDiv{
+    width: 180px;
+    height: 320px;
+} */
