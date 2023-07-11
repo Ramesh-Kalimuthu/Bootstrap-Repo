@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');    
+.d-block{
+    height: 350px;
+    object-fit: cover;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.text-font{
+    font-size: larger;
+    color: #323f4b;
+}
+.card-text{
+    color: #9aa5b1;
+}
