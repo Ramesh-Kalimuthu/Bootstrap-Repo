@@ -1,0 +1,13 @@
+img{
+    height: 70px;
+    width: 70px;
+
+}
+.card{
+    border: none;
+    display: flex;
+    flex: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
