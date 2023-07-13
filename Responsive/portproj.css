@@ -5,10 +5,10 @@ body{
     color: #cced00;
 }
 img{
-    width: 250px;
+    width: 280px;
     height: 150px;
+    object-fit: cover;
 }
 .card{
-    width: 250px;
     background-color: #323f4b;
 }
