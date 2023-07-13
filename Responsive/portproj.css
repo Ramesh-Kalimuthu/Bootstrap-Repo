@@ -1,0 +1,14 @@
+body{
+    background-color: #3e4c59;
+}
+.head,h6{
+    color: #cced00;
+}
+img{
+    width: 250px;
+    height: 150px;
+}
+.card{
+    width: 250px;
+    background-color: #323f4b;
+}
