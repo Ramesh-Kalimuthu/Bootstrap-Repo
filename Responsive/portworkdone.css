@@ -1,0 +1,24 @@
+.bg{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png
+    );
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    overflow: hidden;
+}
+i{
+    font-size: 80px;
+    color: white;
+}
+.card{
+    border: none;
+}
+hr{
+    color: white;
+    width: 80px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
