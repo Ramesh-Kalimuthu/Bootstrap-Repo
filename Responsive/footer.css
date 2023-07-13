@@ -1,0 +1,12 @@
+.container{
+    background-color: #19232d;
+    font-size: 20px;
+}
+p,h1,hr,i{
+    color: #5a7184;
+}
+img{
+    height: 60px;
+    width: 100px;
+    
+}
