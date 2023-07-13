@@ -2,6 +2,9 @@ img{
     height: 50px;
     width: 50px;
 }
+.text{
+    color: #cced00;
+}
 .card{
     background-color:#52606d;
     
