@@ -1,0 +1,14 @@
+.nav_bar{
+    border: 2px solid blue;
+}
+body{
+    background-color: #191a1d;
+    
+}
+.name{
+    color:#4b6cc1;
+}
+.but{
+    background-color: #4b6cc1;
+    color: white;
+}
