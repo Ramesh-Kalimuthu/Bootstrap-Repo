@@ -3,6 +3,8 @@ body{
 }
 .carousel-item{
     width: 250px;
+    position: relative;
+    top: 50px;
 }
 h3{
     color: white;
@@ -15,11 +17,11 @@ img{
     width: 70px;
     border-radius: 50%;
 }
-button{
+/* button{
     position: relative;
     left: 50px;
     margin-top: 290px;
-}
+} */
 #carouselExample{
     width: 230px;
 }
