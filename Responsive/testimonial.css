@@ -1,0 +1,29 @@
+body{
+    background-color: #0d2436;
+}
+.carousel-item{
+    width: 250px;
+}
+h3{
+    color: white;
+}
+.head{
+    color: #cced00;
+}
+img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+button{
+    position: relative;
+    left: 50px;
+    margin-top: 290px;
+}
+#carouselExample{
+    width: 230px;
+}
+.card{
+    background-color:#323f4b;
+    border: none;
+}
